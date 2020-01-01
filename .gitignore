@@ -1,0 +1,6 @@
+# Ignore every script by default to prevent from committing sensitive stuff
+scripts/*
+
+# Un-ignore scripts
+!scripts/hotkey_help.ahk
+!scripts/virtual_desktop_navigation.ahk
